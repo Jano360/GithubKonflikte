@@ -1,4 +1,4 @@
-Zeile 1
+Zeile 0
 4
 
 
@@ -6,3 +6,17 @@ Zeile 1
 
 hhbrojjegfnjnjegrlnlkemngrlkmnerglkmn
 dugijr
+
+Das muss hier rein
+
+
+geändert 40
+
+vdniuvnnvlv
+
+dkd
+dkdkdldp
+
+public static voidmain(String[] args){
+
+System.out.println
