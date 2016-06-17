@@ -16,7 +16,7 @@ vdniuvnnvlv
 dkd
 dkdkdldp
 
-public static voidmain(String[] args){
+public static void main(String[] args){
 
 System.out.println("blaaaaaaaaaaaaaaaaaaaaaaaaaaaaah");
 
