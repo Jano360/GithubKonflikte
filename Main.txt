@@ -18,5 +18,6 @@ dkdkdldp
 
 public static voidmain(String[] args){
 
-System.out.println
-blaaaaaaaaaaaaaaaaaaaaaaaaaaaaah
+System.out.println("blaaaaaaaaaaaaaaaaaaaaaaaaaaaaah");
+
+}
